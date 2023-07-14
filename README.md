@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I am Pratik Mahalle. I am an tech enthusiastic and love to contribute to open source projects. I am junior cyber security analust
+Hi there, I am Pratik Mahalle. I am an tech enthusiastic and love to contribute to open source projects. I am junior cyber security analyst
 
 
 ## 🌐 Socials:
