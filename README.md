@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi there, I am Pratik Mahalle. I am an tech enthusiastic and love to contribute to open source projects. I am junior cyber security analyst
 
-
-##Try Hack ME
+<li>TRY HACK ME</li>
+<img src="https://tryhackme-badges.s3.amazonaws.com/patya.png" alt="TryHackMe">
 <img src="https://tryhackme-badges.s3.amazonaws.com/patya.png" alt="TryHackMe">
 
 
