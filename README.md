@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Pratik Mahalle.png" width="100%" alt="Pratik Mahalle - DevOps | Cloud | Community"> 
+</p>
 
 <h1 align="center">Hi 👋, I'm Pratik Mahalle</h1>
 <h3 align="center">Talking about Cloud, DevOps, and Tech with the Community 🚀</h3>
