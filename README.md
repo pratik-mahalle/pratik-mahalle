@@ -16,7 +16,7 @@
 - 🌐 Portfolio: **[thatdevopsguy.tech](https://thatdevopsguy.tech)**  
 - ✍️ I write about DevOps, Cloud & DevRel: **[hashnode/@pratikmahalle](https://hashnode.com/@pratikmahalle)**  
 - 💬 Ask me about **DevOps, Community Building, Cloud & DevRel**  
-- 📫 Reach me at **pratik@infraudit.dev**  
+- 📫 Reach me at **mahallepratik683@gmail.com**  
 - 🎧 Fun fact: **I never work without music — it keeps everything flowing!**  
 
 ---
